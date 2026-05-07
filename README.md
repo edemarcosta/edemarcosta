@@ -16,19 +16,8 @@ Passionate about scalable architectures, system reliability, and continuous lear
 
 - Core Banking Systems
 - Full Stack Development
-- Frontend
-React,
-TypeScript,
-Vite,
-TailwindCSS,
-Axios,
-Lucide React
-- Backend Integration
-ASP.NET Core APIs,
-JWT Authentication,
-Entity Framework Core,
-SQLite
-
+- Frontend : React, TypeScript, Vite, TailwindCSS, Axios, Lucide React
+- Backend Integration : ASP.NET Core APIs, JWT Authentication, Entity Framework Core, SQLite
 - .NET / VB.NET / VBA
 - REST APIs & System Integration
 - SOAP to REST Migration
