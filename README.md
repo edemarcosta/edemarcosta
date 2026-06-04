@@ -2,11 +2,19 @@
 
 ## Senior Full Stack Engineer | .NET | Core Banking | APIs | Legacy Modernization
 
-Senior Full Stack Engineer with 30+ years of experience in software development, enterprise systems, and mission-critical banking environments.
+Senior Full Stack Software Engineer with extensive experience delivering enterprise solutions across manufacturing,
+financial services, business intelligence, education, and core banking environments. 
 
-Currently working with the TOPAZ Core Banking platform, supporting financial products and services for major cooperative banking institutions in Brazil, including Sicredi and Ailos, serving more than 200 cooperative branches.
+With 20+ years designing and developing enterprise web applications using .NET technologies. Expertise in building scalable 
+RESTful APIs and microservices with ASP.NET Core, and developing responsive front-end applications using React, Angular, TypeScript,
+HTML5, and CSS3. Proven track record of modernizing legacy systems into high-performance, maintainable architectures
+and optimizing relational database solutions with SQL Server. 
 
-Strong expertise in backend development, APIs, enterprise integrations, performance optimization, and modernization of legacy systems. Solid experience bridging modern technologies and enterprise legacy platforms such as COBOL.
+Collaborative Agile practitioner adept at leading code reviews, system design discussions, and integrating cloud services.
+
+Strong expertise in backend development, APIs, enterprise integrations, performance optimization, and modernization of legacy systems. 
+
+Solid experience bridging modern technologies and enterprise legacy platforms such as VB6.
 
 Passionate about scalable architectures, system reliability, and continuous learning.
 
@@ -18,13 +26,12 @@ Passionate about scalable architectures, system reliability, and continuous lear
 - Full Stack Development
 - Frontend : React, TypeScript, Vite, TailwindCSS, Axios, Lucide React
 - Backend Integration : ASP.NET Core APIs, JWT Authentication, Entity Framework Core, SQLite
-- .NET / VB.NET / VBA
+- .NET / VB.NET / VBA / VB4,5,6 / C#
 - REST APIs & System Integration
 - SOAP to REST Migration
 - SQL Server / Oracle
 - ERP & CRM Solutions
 - Legacy Modernization (COBOL)
-
 ---
 
 # 🧰 Tech Stack
