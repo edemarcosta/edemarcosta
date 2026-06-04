@@ -7,8 +7,10 @@ financial services, business intelligence, education, and core banking environme
 
 With 20+ years designing and developing enterprise web applications using .NET technologies. Expertise in building scalable 
 RESTful APIs and microservices with ASP.NET Core, and developing responsive front-end applications using React, Angular, TypeScript,
-HTML5, and CSS3. Proven track record of modernizing legacy systems into high-performance, maintainable architectures
-and optimizing relational database solutions with SQL Server. 
+HTML5, and CSS3. 
+
+Proven track record of modernizing legacy systems into high-performance, maintainable architectures and optimizing relational database 
+solutions with SQL Server. 
 
 Collaborative Agile practitioner adept at leading code reviews, system design discussions, and integrating cloud services.
 
