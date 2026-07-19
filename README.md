@@ -1,25 +1,20 @@
 # Hi, I'm Edemar Costa Oliveira 👋
 
-## Senior Full Stack Engineer | .NET | Core Banking | APIs | Legacy Modernization
-
-Senior Full Stack Software Engineer with extensive experience delivering enterprise solutions across manufacturing,
-financial services, business intelligence, education, and core banking environments. 
-
-With 20+ years designing and developing enterprise web applications using .NET technologies. Expertise in building scalable 
-RESTful APIs and microservices with ASP.NET Core, and developing responsive front-end applications using React, Angular, TypeScript,
-HTML5, and CSS3. 
-
-Proven track record of modernizing legacy systems into high-performance, maintainable architectures and optimizing relational database 
-solutions with SQL Server. 
-
-Collaborative Agile practitioner adept at leading code reviews, system design discussions, and integrating cloud services.
-
-Strong expertise in backend development, APIs, enterprise integrations, performance optimization, and modernization of legacy systems. 
-
-Solid experience bridging modern technologies and enterprise legacy platforms such as VB6.
-
-Passionate about scalable architectures, system reliability, and continuous learning.
-
+## Senior Software Engineer | Full Stack | Distributed Systems | AI-Augmented Engineering | Core Banking
+Senior Software Engineer with 20+ years of experience building production-grade software across Core Banking, 
+manufacturing, ERP, and enterprise platforms. 
+Experienced in designing scalable APIs, distributed systems, workflow automation, and mission-critical applications 
+supporting hundreds of financial institutions, with a strong background in enterprise architecture, software modernization, 
+and AI-augmented software development. 
+Passionate about solving complex engineering challenges and translating business requirements into reliable, 
+scalable systems. 
+Leverages AI-augmented engineering practices to accelerate software delivery while maintaining high engineering 
+standards through architecture reviews, testing, and human validation. 
+Experienced in improving platform reliability, observability, operational resilience, and production support across 
+mission-critical banking environments.
+Known for taking ownership of complex technical challenges, quickly understanding unfamiliar business domains, 
+and delivering pragmatic, scalable solutions in fast-moving engineering environments.
+Comfortable working in fast-moving environments, balancing speed, software quality, and long-term maintainability.
 ---
 
 # 🚀 Main Areas of Expertise
