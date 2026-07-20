@@ -1,34 +1,53 @@
-# Hi, I'm Edemar Costa Oliveira 👋
+# Edemar Costa Oliveira 👋
 
 ## Senior Software Engineer | Full Stack | Distributed Systems | AI-Augmented Engineering | Core Banking
 Senior Software Engineer with 20+ years of experience building production-grade software across Core Banking, 
-manufacturing, ERP, and enterprise platforms. 
+manufacturing, ERP, and enterprise platforms.
+
 Experienced in designing scalable APIs, distributed systems, workflow automation, and mission-critical applications 
 supporting hundreds of financial institutions, with a strong background in enterprise architecture, software modernization, 
-and AI-augmented software development. 
+and AI-augmented software development.
+
 Passionate about solving complex engineering challenges and translating business requirements into reliable, 
-scalable systems. 
+scalable systems.
+
 Leverages AI-augmented engineering practices to accelerate software delivery while maintaining high engineering 
-standards through architecture reviews, testing, and human validation. 
+standards through architecture reviews, testing, and human validation.
+
 Experienced in improving platform reliability, observability, operational resilience, and production support across 
 mission-critical banking environments.
+
 Known for taking ownership of complex technical challenges, quickly understanding unfamiliar business domains, 
 and delivering pragmatic, scalable solutions in fast-moving engineering environments.
+
 Comfortable working in fast-moving environments, balancing speed, software quality, and long-term maintainability.
+
 ---
 
 # 🚀 Main Areas of Expertise
 
-- Core Banking Systems
-- Full Stack Development
-- Frontend : React, TypeScript, Vite, TailwindCSS, Axios, Lucide React
-- Backend Integration : ASP.NET Core APIs, JWT Authentication, Entity Framework Core, SQLite
-- .NET / VB.NET / VBA / VB4,5,6 / C#
-- REST APIs & System Integration
-- SOAP to REST Migration
-- SQL Server / Oracle
-- ERP & CRM Solutions
-- Legacy Modernization (COBOL)
+Backend Engineering 	C#, .NET, ASP.NET Core, REST APIs,Distributed Systems, Microservices,Entity 
+Framework, Core, JWT Authentication
+
+Frontend  			React, TypeScript, Vite, Tailwind CSS, HTML5, CSS3 
+Workflow Automation 		TOPAZ Composer, Business Workflows, Message Queues, Scheduled Jobs, 
+Integration Pipelines
+
+Cloud & DevOps 		Git, Azure DevOps, CI/CD, Docker Compose, Agile (Scrum/Kanban) 
+
+Databases 			Oracle (PL/SQL), SQL Server, PostgreSQL, SQLite, Data Modeling, Query 
+Optimization, Database Performance Optimization
+
+Architecture 			Enterprise Architecture, Software Modernization, SOAP→REST Migration, 
+API Design,System Design
+
+AI-Augmented Engineering 	AI-Augmented Engineering, Code Review, Human Validation
+
+Additional Languages 	VB.NET, VB6, C, C++, Python, COBOL
+
+# Technical Environment
+Recent Production Technology Stack: C#, .NET, ASP.NET Core, React, TypeScript, Oracle, PL/SQL, SQL Server, REST APIs, JWT, Azure DevOps, Git, TOPAZ Composer, Docker, EF Core.
+
 ---
 
 # 🧰 Tech Stack
@@ -54,6 +73,31 @@ Comfortable working in fast-moving environments, balancing speed, software quali
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
+# 💼 Selected Engineering Experience
+• 	Designed and orchestrated business workflows using TOPAZ Composer, implementing scheduled jobs, 
+message queues, integration pipelines, and business rules supporting mission-critical banking operations.
+
+• 	Designed REST APIs and service integrations supporting Core Banking products, including loans, financing, 
+overdrafts, and regulatory compliance initiatives.
+
+• 	Led legacy modernization initiatives, migrating SOAP services to scalable REST-based architectures for 
+enterprise banking systems.
+
+# 💼 Engineering Highlights
+•	Designed and modernized mission-critical Core Banking platforms supporting more than 200 financial 
+cooperative branches across Brazil.
+
+•	Led legacy SOAP-to-REST modernization initiatives, improving interoperability, scalability, and long-term 
+maintainability.
+
+•	Developed React and TypeScript applications that improved internal banking operations and business workflows.
+
+•	Designed workflow orchestration, scheduled jobs, queues,and integration pipelines using TOPAZ Composer
+
+•	Delivered enterprise software solutions across banking, manufacturing, ERP, business intelligence, and 
+higher education.
+
+•	20+ years delivering reliable enterprise software for mission-critical environments.
 
 # 💼 Professional Highlights
 
